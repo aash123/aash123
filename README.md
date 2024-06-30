@@ -23,12 +23,4 @@
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/aash123/aash123.svg" />
 </p>
 
-## Support me
-
-<p align="center">
-  <a href="https://www.patreon.com/aash123" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/aash123/.github/master/.resources/support-patreon.png"/>
-  </a>
-</p>
-
 ---
